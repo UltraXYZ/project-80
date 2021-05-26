@@ -1,0 +1,12 @@
+#submit_button {
+    margin: 10px;
+}
+#show_button {
+    margin: 10px;
+}
+#search_button {
+    margin: 10px;
+}
+#sort_button {
+    display:none;
+} 
